@@ -7,5 +7,5 @@ The objective of the project is to make an application for purchasing items onli
 # How to run the file :
 1- Install the project folder 
 2- Create a new project with command "flutter create" 
-3- Copy all the file related (lib, assets folder and pubspec.yaml) into the new directory file that have been created (substitute it) 
+3- Copy all the file related (lib, andorid, assets folder and pubspec.yaml) into the new directory file that have been created (substitute it) 
 4- Make sure to run your AVD first before test the code using command "flutter run"
