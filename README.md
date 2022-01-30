@@ -1,10 +1,15 @@
 # Group Project
 This is Group Assignment for CSCI4311 Mobile Application Development Section 1 for Semester 1 2021/2022.
 
-## Summary of the Project
+## Group Members:
+1. Muhammad Zulfikhry bin Ahmad Zolfi 
+2. Nayeem Khan
+3. Abrar Habib Haque
+
+## Summary of the Project:
 This is an online shopping application which is created from the flutter. The project objective is to deliver the online shopping application into smartphone devices. This project is an attempt to provide the advantages of online shopping to customers of a real shop. It helps buying the products in the shop anywhere through internet.
 
-## Objective of the Project
+## Objective of the Project:
 The objective of the project is to make an application for purchasing items online.
 
 ## How to run the file:
